@@ -1,2 +1,7 @@
 Created from branch1
+<<<<<<< HEAD
 this line is created from branch2
+=======
+this line is created in branch2
+i also craetd this in branch2
+>>>>>>> branch2
