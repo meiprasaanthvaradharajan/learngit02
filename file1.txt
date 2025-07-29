@@ -1,2 +1,2 @@
 Created from branch1
-this line is created from branch1
+this line is created from branch2
